@@ -1,3 +1,4 @@
 # crispy-octo-computing-machine
 
-hackathon discord test commit jjj
+hackathon discord test commit
+
